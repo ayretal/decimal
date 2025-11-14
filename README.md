@@ -1,8 +1,5 @@
 # s21_decimal 
 
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/PFAxFfM4GJuQU1x59).
-
 Implementation of your own s21_decimal.h library.
 
 The russian version of the task can be found in the repository.
